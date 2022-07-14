@@ -1,8 +1,6 @@
 # Second
 
-[![Build Status](https://github.com/iMuFeng/second/workflows/tests/badge.svg)](https://github.com/iMuFeng/second/actions)
-[![Build Status](https://github.com/iMuFeng/second/workflows/lint/badge.svg)](https://github.com/iMuFeng/second/actions)
-[![GitHub Issues](https://img.shields.io/github/issues/iMuFeng/second.svg)](https://github.com/iMuFeng/second/issues)
+[![Tests](https://github.com/iMuFeng/second/actions/workflows/test.yml/badge.svg)](https://github.com/iMuFeng/second/actions)
 [![Go Version](https://img.shields.io/github/go-mod/go-version/iMuFeng/second?label=Go)](https://github.com/iMuFeng/second/blob/master/go.mod)
 [![Go Ref](https://pkg.go.dev/badge/github.com/iMuFeng/second)](https://pkg.go.dev/github.com/iMuFeng/second)
 
